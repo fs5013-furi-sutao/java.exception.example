@@ -6,7 +6,7 @@
 [検証方法]  
 Employee#notifyHashCode メソッドの throw 句をコメントアウトしたら、どうなるかを確認する。
 
-## Throwable(Exceptin) と RuntimeException の違いを知る
+## Throwable(Exception) と RuntimeException の違いを知る
 throws 句が使えるのは、Throwable を継承した Exception のほうだと知っておく。
 
 ## 自作例外を実装できるようにしておく
